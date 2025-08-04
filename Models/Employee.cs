@@ -10,8 +10,6 @@
 
         public string City { get; set; }
 
-        public string Department { get; set;}
-
        
     }
 }
